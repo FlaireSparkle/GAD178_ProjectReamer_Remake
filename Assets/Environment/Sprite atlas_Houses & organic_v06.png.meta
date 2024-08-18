@@ -1,0 +1,2609 @@
+fileFormatVersion: 2
+guid: 863017262f3578841853ae301b36089c
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Flower_Tulip_Purple
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1921
+        width: 63
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e51c3654326a0f44f8433b7dbd61f500
+      internalID: -1967749619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Tulip_Blue
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1921
+        width: 64
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79ea1ab6a776af845ac9fbf0e470089f
+      internalID: 1594158486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Tulip_Green
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 1921
+        width: 64
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4fa2e1dabd17c941a81a3cf5d075cbf
+      internalID: -47912373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Tulip_Yellow
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 1922
+        width: 64
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72647ae43534bb84886db3775e6fde95
+      internalID: -370044571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Tulip_Orange
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 1921
+        width: 63
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ac7b6da978ad7342a310d4c5f64ac1c
+      internalID: 1617449895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Tulip_Red
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 1921
+        width: 64
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87ea65238c868d0459ee647cb631ee2d
+      internalID: -776357718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_HeartDrop
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 1921
+        width: 124
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8672994b1b0619f4c9f8732c2cd38cf0
+      internalID: 174118439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1536
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67d4f26e13a7a3844a787b61d76d069f
+      internalID: -1462340218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House_Balcony_Brown
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1946
+        width: 161
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 42, y: 9, z: 51, w: 34}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc6e45d7f2db7f547b2c65fd6da54027
+      internalID: 1954990425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House_Pillar_Brown
+      rect:
+        serializedVersion: 2
+        x: 1375
+        y: 1810
+        width: 23
+        height: 188
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4875adb692033d44798add6ee3c72023
+      internalID: 781804328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House_Balcony_Orange
+      rect:
+        serializedVersion: 2
+        x: 1517
+        y: 1951
+        width: 161
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 42, y: 9, z: 51, w: 34}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25006f2df6883f24399b8ab583bd69c0
+      internalID: -1185464750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House_Pillar_Orange
+      rect:
+        serializedVersion: 2
+        x: 1691
+        y: 1815
+        width: 24
+        height: 188
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 734c7f7947e4fdb4ebf0b819b12f5daa
+      internalID: -2054760142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House_Balcony_Purple
+      rect:
+        serializedVersion: 2
+        x: 1808
+        y: 1946
+        width: 161
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 41, y: 9, z: 51, w: 33}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ffd012b5cdb0734ea50d9acaf3e7378
+      internalID: -124487511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House_Pillar_Purple
+      rect:
+        serializedVersion: 2
+        x: 1983
+        y: 1810
+        width: 24
+        height: 188
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef1b433ce2e5fef47af8897390d70f3b
+      internalID: -54495286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grass_3
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 1856
+        width: 63
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fb0f965fa9ea4242a032adf4b73ce42
+      internalID: 1446876320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House_Door_Single_Brown
+      rect:
+        serializedVersion: 2
+        x: 1130
+        y: 1825
+        width: 67
+        height: 92
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ded687a9f4f47ef4185a2400c9cb540e
+      internalID: 2097201247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House_Door_Open_Brown
+      rect:
+        serializedVersion: 2
+        x: 1208
+        y: 1827
+        width: 68
+        height: 91
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1705025f7ee7e34d946bb1560fbdfe7
+      internalID: 858354719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House_Door_Top_Brown
+      rect:
+        serializedVersion: 2
+        x: 1282
+        y: 1864
+        width: 62
+        height: 52
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a5b82edcaeecc84a87a855294bd7b4e
+      internalID: 206783703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House_Door_Single_Orange
+      rect:
+        serializedVersion: 2
+        x: 1447
+        y: 1830
+        width: 67
+        height: 92
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ea38766b1e1f3448bc7139584633f3e
+      internalID: 1334990219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House_Door_Open_Orange
+      rect:
+        serializedVersion: 2
+        x: 1526
+        y: 1830
+        width: 67
+        height: 92
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 946a059bec1819c41a244378dc7b7684
+      internalID: 1190026699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House_Door_Top_Orange
+      rect:
+        serializedVersion: 2
+        x: 1599
+        y: 1869
+        width: 62
+        height: 52
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8c49e0d680a07b448c592b526b12aa8
+      internalID: 387558534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House_Door_Single_Purple
+      rect:
+        serializedVersion: 2
+        x: 1738
+        y: 1825
+        width: 67
+        height: 92
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac2540c3dfa27ee489e2cf1e88c946cb
+      internalID: 459340967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House_Door_Open_Purple
+      rect:
+        serializedVersion: 2
+        x: 1816
+        y: 1825
+        width: 68
+        height: 93
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcb48d7fe54c2924c92c621123e16103
+      internalID: -1051982893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House_Door_Top_Purple
+      rect:
+        serializedVersion: 2
+        x: 1890
+        y: 1864
+        width: 62
+        height: 53
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caf25e4a16eeb744b93f110f5dd3d55d
+      internalID: -365832337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grass_2
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 1858
+        width: 61
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c6a55cd8712c984789ded6495c43f49
+      internalID: 32128359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grass_1
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 1857
+        width: 40
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9fd6afed4b85e04792dc726a6ec19f3
+      internalID: 112135570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House_Door_Bottom_Brown
+      rect:
+        serializedVersion: 2
+        x: 1283
+        y: 1813
+        width: 65
+        height: 45
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a58302d5021f619429941724f907fb8f
+      internalID: 1354516007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House_Door_Bottom_Orange
+      rect:
+        serializedVersion: 2
+        x: 1599
+        y: 1817
+        width: 67
+        height: 47
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1f9dc67954195545bce3fc68a8fe60b
+      internalID: 220320902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House_Door_Bottom_Purple
+      rect:
+        serializedVersion: 2
+        x: 1890
+        y: 1812
+        width: 68
+        height: 47
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c371e65e4eabd884eb6a7cda2d218aad
+      internalID: 1323381548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_3_Bush
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1542
+        width: 224
+        height: 308
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1d853aabe046424e94434ac22ad046e
+      internalID: 1921829996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House_Balcony_Green
+      rect:
+        serializedVersion: 2
+        x: 1197
+        y: 1711
+        width: 161
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 42, y: 9, z: 51, w: 35}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ef34bbabf79a7f4eb05f661dbd38bdd
+      internalID: 168407976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House_Pillar_Green
+      rect:
+        serializedVersion: 2
+        x: 1371
+        y: 1575
+        width: 24
+        height: 188
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f11034adbf92ca544b4f995ab913f295
+      internalID: 1018749655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House_Balcony_Blue
+      rect:
+        serializedVersion: 2
+        x: 1514
+        y: 1709
+        width: 161
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 43, y: 9, z: 51, w: 34}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e3a5994df4a74442b13fdebbbb0eae8
+      internalID: 1166435127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House_Pillar_Blue
+      rect:
+        serializedVersion: 2
+        x: 1689
+        y: 1573
+        width: 24
+        height: 188
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef94d7fbdef87bc41a3fed0b6116cf22
+      internalID: 1114310592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House_Balcony_Red
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 1699
+        width: 161
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 42, y: 9, z: 50, w: 35}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7057e56174935547b167f2001ea8e0b
+      internalID: -1082062080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House_Pillar_Red
+      rect:
+        serializedVersion: 2
+        x: 1975
+        y: 1563
+        width: 23
+        height: 188
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6450bcf7760651240a3f1ec05a0c9358
+      internalID: 1156737108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House_Door_Single_Green
+      rect:
+        serializedVersion: 2
+        x: 1127
+        y: 1590
+        width: 67
+        height: 92
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eed4c5d99b679745b34f9ac091ca637
+      internalID: -1440569448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House_Door_Open_Green
+      rect:
+        serializedVersion: 2
+        x: 1207
+        y: 1590
+        width: 67
+        height: 92
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd5ea55050590dc418ee16d4732f05f7
+      internalID: -883924636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House_Door_Top_Green
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1629
+        width: 61
+        height: 51
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b48fb01f3f46d4749b923e86c6d65430
+      internalID: 201048413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House_Door_Single_Blue
+      rect:
+        serializedVersion: 2
+        x: 1445
+        y: 1588
+        width: 65
+        height: 91
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 272555db939c39949a45de1947525204
+      internalID: 1766844178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House_Door_Open_Blue
+      rect:
+        serializedVersion: 2
+        x: 1523
+        y: 1588
+        width: 67
+        height: 93
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4684da95f5a0f524280a63aace5e8867
+      internalID: 187488005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House_Door_Top_Blue
+      rect:
+        serializedVersion: 2
+        x: 1596
+        y: 1627
+        width: 61
+        height: 53
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a24743e125923dc48b45ac4ed0e767cc
+      internalID: -2029814939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House_Door_Single_Red
+      rect:
+        serializedVersion: 2
+        x: 1731
+        y: 1578
+        width: 66
+        height: 92
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d0310348050ab047ababdaa3fa05c34
+      internalID: 1443848652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House_Door_Open_Red
+      rect:
+        serializedVersion: 2
+        x: 1808
+        y: 1578
+        width: 68
+        height: 92
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbf85f35db389b0499e9207631d8dbfe
+      internalID: 665382004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House_Door_Top_Red
+      rect:
+        serializedVersion: 2
+        x: 1882
+        y: 1617
+        width: 62
+        height: 53
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 355398ef761e9e148806f229da84178b
+      internalID: 862513045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House_Door_Bottom_Green
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1577
+        width: 66
+        height: 46
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35cd0554b3145f145abb7865348e8725
+      internalID: -1575728218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House_Door_Bottom_Blue
+      rect:
+        serializedVersion: 2
+        x: 1597
+        y: 1575
+        width: 66
+        height: 46
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ff9e2370626d88499ee8923791b1466
+      internalID: 133402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House_Door_Bottom_Red
+      rect:
+        serializedVersion: 2
+        x: 1883
+        y: 1565
+        width: 66
+        height: 47
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 664fc93cddb4f3b4aad4046dcaa9e20b
+      internalID: -1345275019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_2_Bush
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1228
+        width: 370
+        height: 296
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d4b18a85914436429a9cc55a5f26eb6
+      internalID: 1300374903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneBricks_Long_Lines
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 1473
+        width: 431
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 30, y: 4, z: 28, w: 4}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e88143bf9997c904fa282ed645d60f11
+      internalID: -299736312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House_Roof_Front_Brown
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 1383
+        width: 228
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24b561e540bcdd047a9fbbd8ae8c7390
+      internalID: 1311257735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House_Roof_Front_Orange
+      rect:
+        serializedVersion: 2
+        x: 1301
+        y: 1388
+        width: 228
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3a2f75439d4a4f409399d0c61795925
+      internalID: 1800669802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House_Roof_Front_Purple
+      rect:
+        serializedVersion: 2
+        x: 1720
+        y: 1386
+        width: 228
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc3f6138d42f5944ba3b9399f41e8ad3
+      internalID: 1860386865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneBrick_SquareRound_noLines
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 1383
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 8, y: 8, z: 8, w: 8}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52dd627179c81b4409e36e27c05f7774
+      internalID: 947445530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneBrick_SquareCornered_noLines
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 1384
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeeec7e77c2d5774b88ec915629de6a8
+      internalID: 1944033464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House_Roof_Side_Purple
+      rect:
+        serializedVersion: 2
+        x: 1633
+        y: 1174
+        width: 402
+        height: 210
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 31, y: 0, z: 31, w: 36}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4424a52464f70034eade1db1057cf07c
+      internalID: -809689980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneBrick_SquareRound_Lined
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 1308
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 8, y: 8, z: 8, w: 8}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee2dafadba0ae4a4dbfb95675a7e679c
+      internalID: -1949648143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneBrick_SquareCornered_Lined
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 1308
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 5, y: 5, z: 5, w: 5}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e59c2b6c24add7e43aca3bda7e7932c1
+      internalID: 740208716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneBrick_Rectangle_noLines
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 1351
+        width: 63
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 8, y: 8, z: 8, w: 8}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 531a776899d17b84bb6d82459eb98d13
+      internalID: 1544703230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House_Roof_Side_Brown
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 1167
+        width: 402
+        height: 210
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 31, y: 0, z: 31, w: 36}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d272e504ca84aa54eb0a7eda6640dc54
+      internalID: -653721483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House_Roof_Side_Orange
+      rect:
+        serializedVersion: 2
+        x: 1214
+        y: 1172
+        width: 402
+        height: 210
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 31, y: 0, z: 31, w: 36}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96c7c933c5bf9904997c8f085054d4e7
+      internalID: -1647058183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneBrick_Rectangle_Lined
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 1310
+        width: 67
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 8, y: 8, z: 8, w: 8}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6ca1896ed21baa4eb29b9bf7ec99492
+      internalID: -1434586541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneBricks_Lines
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 1258
+        width: 259
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 67, y: 0, z: 66, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 565cc4e3f4090514287e9cd8a142d41a
+      internalID: 523573918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneBricks_noLines
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 1223
+        width: 254
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85db94a07fb6fc34aa10182a2b6af460
+      internalID: -1874948505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_1_Bush
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 903
+        width: 349
+        height: 294
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba27249f0e36a8e41b34ee4ba6cb08e4
+      internalID: 1877893728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House_Window_FancyQuater
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 1034
+        width: 106
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80b56ab5c84e29e4dabf151e5ad36780
+      internalID: 83023552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House_Window_PlainQuater
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 1034
+        width: 107
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b3ba325136224f4a8ae487f7426b108
+      internalID: 555990431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House_Window_FancyHalf
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 1034
+        width: 106
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62c9f798d59f7b443b8a5317c7e786b8
+      internalID: -1232598616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House_Window_Moon
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 1034
+        width: 107
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65151841e5428bf46a8072d739aa3def
+      internalID: -459594243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House_Wall_Panels_Brown
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 975
+        width: 354
+        height: 188
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 18, y: 18, z: 18, w: 18}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9623c111131f3724bbc2d6ffbe90158f
+      internalID: -1318777080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House_Wall_Panels_Orange
+      rect:
+        serializedVersion: 2
+        x: 1237
+        y: 980
+        width: 354
+        height: 188
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 18, y: 18, z: 18, w: 18}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eae2aa9ef90af7f46ad0caf2f57f9f58
+      internalID: 280740776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House_Wall_Panels_Purple
+      rect:
+        serializedVersion: 2
+        x: 1656
+        y: 980
+        width: 355
+        height: 188
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 18, y: 18, z: 18, w: 18}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5454a6221136fae4bb424203be6045bc
+      internalID: 27434500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light_Orb
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 783
+        width: 97
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d4756d1126bb1f49a48096b78213241
+      internalID: -1778581182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light_Pole
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 641
+        width: 126
+        height: 245
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eee9c7873612942418a765431a63e9df
+      internalID: 1586855825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House_Wall_Diamonds_Brown
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 780
+        width: 186
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 18, y: 18, z: 18, w: 18}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31ba989014a9b4a45a6046045e9c3241
+      internalID: 171556154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House_Wall_Blank_Brown
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 780
+        width: 186
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 18, y: 18, z: 18, w: 18}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98c833d86f61c054b8e3437955a34fed
+      internalID: 415506409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House_Wall_Diamonds_Orange
+      rect:
+        serializedVersion: 2
+        x: 1226
+        y: 785
+        width: 186
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 18, y: 18, z: 18, w: 18}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c06334a875b006947b087353fc48687f
+      internalID: 86064087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House_Wall_Blank_Orange
+      rect:
+        serializedVersion: 2
+        x: 1417
+        y: 786
+        width: 186
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 18, y: 18, z: 18, w: 18}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25f7a62e7dc6d144aa5c977b636bc765
+      internalID: 1378349537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House_Wall_Diamonds_Purple
+      rect:
+        serializedVersion: 2
+        x: 1645
+        y: 785
+        width: 186
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 18, y: 18, z: 18, w: 18}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e479e73884a29d44e8c04d396d1ce32b
+      internalID: -1764841250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House_Wall_Blank_Purple
+      rect:
+        serializedVersion: 2
+        x: 1836
+        y: 786
+        width: 186
+        height: 186
+      alignment: 9
+      pivot: {x: 0.5069948, y: 0.5472146}
+      border: {x: 18, y: 18, z: 18, w: 18}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b50fa56c2f73fda47b966500eaf27659
+      internalID: 817936264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light_Crystal
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 658
+        width: 41
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 003deca93fddb7e47933c92df6712e03
+      internalID: -541905105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House_Roof_Front_Green
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 622
+        width: 228
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c8f41c87dc0f524785b97eff925cb2c
+      internalID: 1148477312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House_Roof_Front_Blue
+      rect:
+        serializedVersion: 2
+        x: 1298
+        y: 620
+        width: 228
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce156dba855e2894e985531f7a4ab90c
+      internalID: 2000812773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House_Roof_Front_Red
+      rect:
+        serializedVersion: 2
+        x: 1712
+        y: 616
+        width: 228
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6361636e8c1dab740a837d3d751faeac
+      internalID: -1941940591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bush_1
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 510
+        width: 137
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce09402d4c0888345a20c2b6a17a8df5
+      internalID: -716771901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bush_2
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 516
+        width: 129
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cd2ec0edbac6494199603aadd35add4
+      internalID: -872166283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bush_3
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 517
+        width: 155
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c67c7b8d2c6b4046b77ee935f4d98df
+      internalID: -1575417481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House_Roof_Side_Green
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 408
+        width: 402
+        height: 210
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 31, y: 0, z: 31, w: 36}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89bf3baed22d22f44a2348f92da43144
+      internalID: 1937492835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House_Roof_Side_Blue
+      rect:
+        serializedVersion: 2
+        x: 1210
+        y: 407
+        width: 402
+        height: 210
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 31, y: 0, z: 31, w: 36}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e56cd628c12aa14687e78da63f6fbc1
+      internalID: -409623532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House_Roof_Side_Red
+      rect:
+        serializedVersion: 2
+        x: 1625
+        y: 403
+        width: 402
+        height: 210
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 31, y: 0, z: 31, w: 36}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d2377740c41108469388dfc9a3e811e
+      internalID: -1306327166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bush_1_flower
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 400
+        width: 137
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3b77696d7d1c5642bb2e57243159e82
+      internalID: 671327420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bush_2_flower
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 400
+        width: 130
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba4560cda50a68e4987fa7cd7928b6d3
+      internalID: -1374832881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bush_3_flower
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 409
+        width: 156
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 589bc463dae332943a2f67dba0a48d66
+      internalID: 1799646553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_1_Trunk
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 6
+        width: 246
+        height: 370
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5371513d2c921be4a85e1e3978665267
+      internalID: -753503298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_2_Trunk
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 3
+        width: 234
+        height: 378
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5784e33102ecba4fa9d68824e0ffcb2
+      internalID: -1685612736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_3_Trunk
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 6
+        width: 189
+        height: 297
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab473f0e8c694f74cb5dadb1a5d9fe8e
+      internalID: 976097068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House_Wall_Panels_Green
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 216
+        width: 354
+        height: 188
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 18, y: 18, z: 18, w: 18}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 593c4c1e7da63ed4cb67410d51cc8791
+      internalID: -113140449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House_Wall_Panels_Blue
+      rect:
+        serializedVersion: 2
+        x: 1234
+        y: 214
+        width: 354
+        height: 188
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 18, y: 18, z: 18, w: 18}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a777d3339647eb540b00c355a93ef757
+      internalID: 1492170745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House_Wall_Panels_Red
+      rect:
+        serializedVersion: 2
+        x: 1648
+        y: 210
+        width: 354
+        height: 188
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 18, y: 18, z: 18, w: 18}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39699852457fd024abc1c2ba779e4fda
+      internalID: 1883997870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House_Wall_Diamonds_Green
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 21
+        width: 186
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 18, y: 18, z: 18, w: 18}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ca12e3587ebb314aa1d498bc29c2be3
+      internalID: -342407586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House_Wall_Blank_Green
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 22
+        width: 186
+        height: 186
+      alignment: 9
+      pivot: {x: 0.502826, y: 0.5211979}
+      border: {x: 18, y: 18, z: 18, w: 18}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1af47d543a6efc4fbb76ec7fdff281e
+      internalID: -199703740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House_Wall_Diamonds_Blue
+      rect:
+        serializedVersion: 2
+        x: 1223
+        y: 19
+        width: 186
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 18, y: 18, z: 18, w: 18}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3404c0233d6c024ab013f08fe8c6d46
+      internalID: 1847545815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House_Wall_Blank_Blue
+      rect:
+        serializedVersion: 2
+        x: 1415
+        y: 20
+        width: 186
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 18, y: 18, z: 18, w: 18}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bcd6667acfcd6e4182b77a558a3e245
+      internalID: -1785844609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House_Wall_Diamonds_Red
+      rect:
+        serializedVersion: 2
+        x: 1637
+        y: 15
+        width: 186
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 18, y: 18, z: 18, w: 18}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aa8d60d4dddf364382815f1241ddd0e
+      internalID: 986194041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House_Wall_Blank_Red
+      rect:
+        serializedVersion: 2
+        x: 1828
+        y: 16
+        width: 186
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 18, y: 18, z: 18, w: 18}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 599e38ab8243d0242903dfa908f682e1
+      internalID: 438222987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneBrickFlooring
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 927
+        width: 289
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 34, y: 0, z: 66, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd24c13dc84f450479b5c53a316c5f09
+      internalID: 1683602557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: partical_star_diamond_Large
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 804
+        width: 67
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d78bc99d96008845b3f6655c67a249f
+      internalID: -1853616953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: partical_star_pentagram_Large
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 789
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed84795141554924190eb1bdba18412c
+      internalID: -536244140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: partical_star_diamond_Tiny
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 876
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f46d19c0f696a9447861a765923efbc7
+      internalID: -294065770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: partical_star_pentagram_Tiny
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 852
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64f2e0203f5fcef488576f0da34fbb20
+      internalID: 62455719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: partical_circle_full
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 875
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59b02d9ffdbdc094c946ef8c2c64747a
+      internalID: 987996192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: partical_circle_donut
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 875
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aa555107830ef54c91882fb38c5cebf
+      internalID: 1073173302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Bush_1: -716771901
+      Bush_1_flower: 671327420
+      Bush_2: -872166283
+      Bush_2_flower: -1374832881
+      Bush_3: -1575417481
+      Bush_3_flower: 1799646553
+      Flower_HeartDrop: 174118439
+      Flower_Tulip_Blue: 1594158486
+      Flower_Tulip_Green: -47912373
+      Flower_Tulip_Orange: 1617449895
+      Flower_Tulip_Purple: -1967749619
+      Flower_Tulip_Red: -776357718
+      Flower_Tulip_Yellow: -370044571
+      Grass_1: 112135570
+      Grass_2: 32128359
+      Grass_3: 1446876320
+      House_Balcony_Blue: 1166435127
+      House_Balcony_Brown: 1954990425
+      House_Balcony_Green: 168407976
+      House_Balcony_Orange: -1185464750
+      House_Balcony_Purple: -124487511
+      House_Balcony_Red: -1082062080
+      House_Door_Bottom_Blue: 133402
+      House_Door_Bottom_Brown: 1354516007
+      House_Door_Bottom_Green: -1575728218
+      House_Door_Bottom_Orange: 220320902
+      House_Door_Bottom_Purple: 1323381548
+      House_Door_Bottom_Red: -1345275019
+      House_Door_Open_Blue: 187488005
+      House_Door_Open_Brown: 858354719
+      House_Door_Open_Green: -883924636
+      House_Door_Open_Orange: 1190026699
+      House_Door_Open_Purple: -1051982893
+      House_Door_Open_Red: 665382004
+      House_Door_Single_Blue: 1766844178
+      House_Door_Single_Brown: 2097201247
+      House_Door_Single_Green: -1440569448
+      House_Door_Single_Orange: 1334990219
+      House_Door_Single_Purple: 459340967
+      House_Door_Single_Red: 1443848652
+      House_Door_Top_Blue: -2029814939
+      House_Door_Top_Brown: 206783703
+      House_Door_Top_Green: 201048413
+      House_Door_Top_Orange: 387558534
+      House_Door_Top_Purple: -365832337
+      House_Door_Top_Red: 862513045
+      House_Pillar_Blue: 1114310592
+      House_Pillar_Brown: 781804328
+      House_Pillar_Green: 1018749655
+      House_Pillar_Orange: -2054760142
+      House_Pillar_Purple: -54495286
+      House_Pillar_Red: 1156737108
+      House_Roof_Front_Blue: 2000812773
+      House_Roof_Front_Brown: 1311257735
+      House_Roof_Front_Green: 1148477312
+      House_Roof_Front_Orange: 1800669802
+      House_Roof_Front_Purple: 1860386865
+      House_Roof_Front_Red: -1941940591
+      House_Roof_Side_Blue: -409623532
+      House_Roof_Side_Brown: -653721483
+      House_Roof_Side_Green: 1937492835
+      House_Roof_Side_Orange: -1647058183
+      House_Roof_Side_Purple: -809689980
+      House_Roof_Side_Red: -1306327166
+      House_Wall_Blank_Blue: -1785844609
+      House_Wall_Blank_Brown: 415506409
+      House_Wall_Blank_Green: -199703740
+      House_Wall_Blank_Orange: 1378349537
+      House_Wall_Blank_Purple: 817936264
+      House_Wall_Blank_Red: 438222987
+      House_Wall_Diamonds_Blue: 1847545815
+      House_Wall_Diamonds_Brown: 171556154
+      House_Wall_Diamonds_Green: -342407586
+      House_Wall_Diamonds_Orange: 86064087
+      House_Wall_Diamonds_Purple: -1764841250
+      House_Wall_Diamonds_Red: 986194041
+      House_Wall_Panels_Blue: 1492170745
+      House_Wall_Panels_Brown: -1318777080
+      House_Wall_Panels_Green: -113140449
+      House_Wall_Panels_Orange: 280740776
+      House_Wall_Panels_Purple: 27434500
+      House_Wall_Panels_Red: 1883997870
+      House_Window_FancyHalf: -1232598616
+      House_Window_FancyQuater: 83023552
+      House_Window_Moon: -459594243
+      House_Window_PlainQuater: 555990431
+      Light_Crystal: -541905105
+      Light_Orb: -1778581182
+      Light_Pole: 1586855825
+      Sky: -1462340218
+      Sprite atlas_Houses & organic_v04_18: 923255911
+      Sprite atlas_Houses & organic_v04_19: -1762217447
+      Sprite atlas_Houses & organic_v04_23: -494699933
+      Sprite atlas_Houses & organic_v04_24: -24015674
+      Sprite atlas_Houses & organic_v04_28: 1771239815
+      Sprite atlas_Houses & organic_v04_29: -309427199
+      Sprite atlas_Houses & organic_v04_31: 1181670552
+      Sprite atlas_Houses & organic_v04_32: 564319020
+      Sprite atlas_Houses & organic_v04_33: 1636088496
+      Sprite atlas_Houses & organic_v04_48: -782935106
+      Sprite atlas_Houses & organic_v04_49: -1215049361
+      Sprite atlas_Houses & organic_v04_53: -2068969552
+      Sprite atlas_Houses & organic_v04_54: 47921191
+      Sprite atlas_Houses & organic_v04_58: 1283816314
+      Sprite atlas_Houses & organic_v04_59: 1646957516
+      Sprite atlas_Houses & organic_v04_60: 511990449
+      Sprite atlas_Houses & organic_v04_61: -1179934257
+      Sprite atlas_Houses & organic_v04_62: -1463589554
+      StoneBrickFlooring: 1683602557
+      StoneBrick_Rectangle_Lined: -1434586541
+      StoneBrick_Rectangle_noLines: 1544703230
+      StoneBrick_SquareCornered_Lined: 740208716
+      StoneBrick_SquareCornered_noLines: 1944033464
+      StoneBrick_SquareRound_Lined: -1949648143
+      StoneBrick_SquareRound_noLines: 947445530
+      StoneBricks_Lines: 523573918
+      StoneBricks_Long_Lines: -299736312
+      StoneBricks_noLines: -1874948505
+      Tree_1_Bush: 1877893728
+      Tree_1_Trunk: -753503298
+      Tree_2_Bush: 1300374903
+      Tree_2_Trunk: -1685612736
+      Tree_3_Bush: 1921829996
+      Tree_3_Trunk: 976097068
+      partical_circle_donut: 1073173302
+      partical_circle_full: 987996192
+      partical_star_diamond_Large: -1853616953
+      partical_star_diamond_Tiny: -294065770
+      partical_star_pentagram_Large: -536244140
+      partical_star_pentagram_Tiny: 62455719
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
