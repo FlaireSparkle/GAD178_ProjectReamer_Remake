@@ -463,6 +463,7 @@ GameObject:
   m_Component:
   - component: {fileID: 8589848147412948542}
   - component: {fileID: 1097982562056136108}
+  - component: {fileID: 478884321691898779}
   m_Layer: 0
   m_Name: House_Wall
   m_TagString: Untagged
@@ -537,6 +538,36 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &478884321691898779
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1937419407491923798}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7db70e0ea77f5ac47a8f4565a9406397, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_ShadowGroup: 0
+  m_ComponentVersion: 1
+  m_HasRenderer: 1
+  m_UseRendererSilhouette: 1
+  m_CastsShadows: 1
+  m_SelfShadows: 0
+  m_ApplyToSortingLayers: 000000004faec405018d3e4ff3b0a34cbb88597d13123b2ed1b1647f033add20
+  m_ShapePath:
+  - {x: -0.93, y: -0.93, z: 0}
+  - {x: -0.93, y: 0.92999995, z: 0}
+  - {x: 0.93000007, y: 0.92999995, z: 0}
+  - {x: 0.93000007, y: -0.93, z: 0}
+  m_ShapePathHash: 0
+  m_Mesh: {fileID: 0}
+  m_InstanceId: 38092
+  m_LocalBounds:
+    m_Center: {x: 0.000000059604645, y: -0.000000059604645, z: 0}
+    m_Extent: {x: 0.93000007, y: 0.92999995, z: 0}
 --- !u!1 &2813159983573744663
 GameObject:
   m_ObjectHideFlags: 0
@@ -547,6 +578,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2984519912370477951}
   - component: {fileID: 4954898338504960066}
+  - component: {fileID: 6004352849046012192}
   m_Layer: 0
   m_Name: House_Wall
   m_TagString: Untagged
@@ -621,6 +653,36 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &6004352849046012192
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2813159983573744663}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7db70e0ea77f5ac47a8f4565a9406397, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_ShadowGroup: 0
+  m_ComponentVersion: 1
+  m_HasRenderer: 1
+  m_UseRendererSilhouette: 1
+  m_CastsShadows: 1
+  m_SelfShadows: 0
+  m_ApplyToSortingLayers: 000000004faec405018d3e4ff3b0a34cbb88597d13123b2ed1b1647f033add20
+  m_ShapePath:
+  - {x: -1.77, y: -0.94000006, z: 0}
+  - {x: -1.77, y: 0.94, z: 0}
+  - {x: 1.77, y: 0.94, z: 0}
+  - {x: 1.77, y: -0.94000006, z: 0}
+  m_ShapePathHash: 0
+  m_Mesh: {fileID: 0}
+  m_InstanceId: 38186
+  m_LocalBounds:
+    m_Center: {x: 0, y: 0, z: 0}
+    m_Extent: {x: 1.77, y: 0.94000006, z: 0}
 --- !u!1 &2937396616924471023
 GameObject:
   m_ObjectHideFlags: 0
@@ -631,6 +693,7 @@ GameObject:
   m_Component:
   - component: {fileID: 680895397264925529}
   - component: {fileID: 3355001876776976310}
+  - component: {fileID: 7514411597808067937}
   m_Layer: 0
   m_Name: House_Wall
   m_TagString: Untagged
@@ -705,6 +768,36 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &7514411597808067937
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2937396616924471023}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7db70e0ea77f5ac47a8f4565a9406397, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_ShadowGroup: 0
+  m_ComponentVersion: 1
+  m_HasRenderer: 1
+  m_UseRendererSilhouette: 1
+  m_CastsShadows: 1
+  m_SelfShadows: 0
+  m_ApplyToSortingLayers: 000000004faec405018d3e4ff3b0a34cbb88597d13123b2ed1b1647f033add20
+  m_ShapePath:
+  - {x: -1.77, y: -0.94, z: 0}
+  - {x: -1.77, y: 0.93999994, z: 0}
+  - {x: 1.77, y: 0.93999994, z: 0}
+  - {x: 1.77, y: -0.94, z: 0}
+  m_ShapePathHash: 0
+  m_Mesh: {fileID: 0}
+  m_InstanceId: 38210
+  m_LocalBounds:
+    m_Center: {x: 0, y: -0.000000059604645, z: 0}
+    m_Extent: {x: 1.77, y: 0.93999994, z: 0}
 --- !u!1 &3211402131269264542
 GameObject:
   m_ObjectHideFlags: 0
