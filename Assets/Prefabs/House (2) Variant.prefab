@@ -510,6 +510,10 @@ PrefabInstance:
       propertyPath: m_ConstrainProportionsScale
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 8435950633750900484, guid: 87039c1fab6b81447894462ab984c77d, type: 3}
+      propertyPath: m_SortingOrder
+      value: -15
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -540,6 +544,10 @@ PrefabInstance:
       propertyPath: m_Sprite
       value: 
       objectReference: {fileID: -1232598616, guid: 863017262f3578841853ae301b36089c, type: 3}
+    - target: {fileID: 478884321691898779, guid: 7dea756471364644caef2610b2c17e83, type: 3}
+      propertyPath: m_InstanceId
+      value: -192226
+      objectReference: {fileID: 0}
     - target: {fileID: 628119437405771524, guid: 7dea756471364644caef2610b2c17e83, type: 3}
       propertyPath: m_LocalPosition.x
       value: -4.463
@@ -856,6 +864,10 @@ PrefabInstance:
       propertyPath: m_Sprite
       value: 
       objectReference: {fileID: 781804328, guid: 863017262f3578841853ae301b36089c, type: 3}
+    - target: {fileID: 6004352849046012192, guid: 7dea756471364644caef2610b2c17e83, type: 3}
+      propertyPath: m_InstanceId
+      value: -192404
+      objectReference: {fileID: 0}
     - target: {fileID: 7352335635925515950, guid: 7dea756471364644caef2610b2c17e83, type: 3}
       propertyPath: m_Sprite
       value: 
@@ -871,6 +883,10 @@ PrefabInstance:
     - target: {fileID: 7419186524217188800, guid: 7dea756471364644caef2610b2c17e83, type: 3}
       propertyPath: m_SortingLayerID
       value: 775623187
+      objectReference: {fileID: 0}
+    - target: {fileID: 7514411597808067937, guid: 7dea756471364644caef2610b2c17e83, type: 3}
+      propertyPath: m_InstanceId
+      value: -192330
       objectReference: {fileID: 0}
     - target: {fileID: 8363287421923252261, guid: 7dea756471364644caef2610b2c17e83, type: 3}
       propertyPath: m_Sprite
